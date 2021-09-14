@@ -61,9 +61,7 @@ flutter doctor
 ***
 ## Getting Started 🚀
 
-<p float="left;padding=10px">
-<img src="screenshot.png" width="3306" height="2032"> 
-</p>
+![image_get_color_palette](screenshot.png)
 
 - Dependencies 
   * palette_generator: ^0.3.1
