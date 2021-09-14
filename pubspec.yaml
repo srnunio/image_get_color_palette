@@ -31,9 +31,7 @@ dependencies:
   palette_generator: ^0.3.1
   mobx: ^2.0.1
   flutter_mobx: ^2.0.0
-#  image_picker_web: ^2.0.3+1
   image_picker: ^0.8.4
-#  file_picker: ^4.0.2
   customized:
     git:
       url: https://github.com/EdvaldoMartins/customized
